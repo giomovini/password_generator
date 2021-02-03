@@ -2,9 +2,9 @@
 
 Programa feito em Python, que gera uma senha aleatória toda vez que o programa é iniciado
 
-## Técnologia utilizada
+## Tecnologia utilizada
 <ul>
-  <li>Pyhton</li>
+  <li>Python</li>
 </ul>
 
 espero que gostem...
